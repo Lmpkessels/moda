@@ -1,9 +1,9 @@
-# moda
+# MODA
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Built with Rust](https://img.shields.io/badge/Built%20with-Rust-red.svg)
 
-MODA is a Rust-based project exploring modular arithmetic, number theory, and abstract algebra concepts through practical implementations and problem solving.
+moda is a Rust-based project exploring modular arithmetic, number theory, and abstract algebra concepts through practical implementations and problem solving.
 
 ## Resources
 
@@ -23,6 +23,10 @@ cd moda
 cargo build
 cargo run
 ```
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE-MIT).
 
 ## Where you can find me
 
